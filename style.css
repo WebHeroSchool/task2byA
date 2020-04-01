@@ -50,7 +50,7 @@
   
   .menu__links {
     position: fixed;
-    display: block;
+	display:none;
     top: 0;
     right: 0;
     left: 0;
