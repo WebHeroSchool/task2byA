@@ -50,7 +50,7 @@
   
   .menu__links {
     position: fixed;
-	display:none;
+    display:none;
     top: 0;
     right: 0;
     left: 0;
@@ -61,7 +61,7 @@
   }
   
   .menu__links-item {
-    display: block;
+    display: none;
     padding: 10px 0;
     text-align: center;
     color: #ffffff;
